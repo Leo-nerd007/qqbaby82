@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=qqbaby82&label=Profile%20views&color=0e75b6&style=flat" alt="qqbaby82" />
+  <img src="https://komarev.com/ghpvc/?username=Leo-nerd007&label=Profile%20views&color=0e75b6&style=flat" alt="Leo-nerd007" />
 </p>
 
-<h1 align="center">Hi 👋, I'm qq baby</h1>
+<h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qqbaby82&show_icons=true&theme=radical" alt="qqbaby82's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=qqbaby82&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-nerd007&show_icons=true&theme=radical" alt="Leo-nerd007's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Leo-nerd007&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qqbaby82&repo=solana-copy-trading-bot&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-nerd007&repo=solana-copy-trading-bot&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qqbaby82&repo=Copy-Trading-Bot-Rust&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-nerd007&repo=Copy-Trading-Bot-Rust&theme=buefy" />
 </a>
 
 ---
@@ -57,7 +57,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/qqbaby82" target="_blank">
+  <a href="https://github.com/Leo-nerd007" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
